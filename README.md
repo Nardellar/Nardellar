@@ -15,11 +15,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">hey there 👋! My name is Simone and I'm a computer scientist from italy</h3>
+<h1 data-importer="text" align="center">hey there 👋! My name is Simone and I'm a computer scientist from italy</h1>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h2 data-importer="text" align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h2 data-importer="text" align="left">🔥   My Stats :</h2>
 
 ###
 
