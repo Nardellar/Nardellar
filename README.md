@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img width="300" height="326" alt="lightbulb_Omori" src="https://github.com/user-attachments/assets/0fefa22c-bf72-42e5-aca0-32fe538cfbcd" /><img width="350" height="300" alt="mewo" src="https://github.com/user-attachments/assets/1006c500-01b2-484d-b943-4282a9312712" />
 </div>
 
 
