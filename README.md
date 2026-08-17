@@ -23,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🔭 I’m currently working as IT consultant at Blue Reply<br>- 📚 I'm currently learning React Native <br>- ⚡ In my free time I like learning useless history facts</p>
+<p data-importer="text" align="left">- 🔭 I’m currently working as IT consultant at Blue Reply<br>- 📚 I'm currently learning React Native <br>- ☕ In my free time I like learning useless history facts</p>
 
 ###
 
